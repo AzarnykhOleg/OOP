@@ -54,7 +54,7 @@ public class Stream implements Iterable<StudentGroup>{
 
     @Override
     public String toString() {
-        return String.format("Поток № %d", streamNumber);
+        return String.format("\nПоток № %d: %s", streamNumber, groups);
     }
 }
 
