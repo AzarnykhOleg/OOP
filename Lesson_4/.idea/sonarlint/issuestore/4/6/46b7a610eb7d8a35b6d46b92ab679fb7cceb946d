@@ -1,0 +1,6 @@
+
+œ
+java:S1598"This file "User.java" should be located in "Lesson_4\data" directory, not in "D:\Learning\OOP\OOP\Lesson_4\src\main\java\data".(¶ë„8Ôá¯Ÿ´1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¶ë„8Ôá¯Ÿ´1
+r
+java:S1206="PThis class overrides "equals()" and should therefore also override "hashCode()".(İ¢êÍıÿÿÿÿ8üÅ¯Ÿ´1
