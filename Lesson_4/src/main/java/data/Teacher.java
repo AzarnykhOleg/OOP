@@ -19,10 +19,20 @@ public class Teacher extends User{
         this.teacherId = teacherId;
     }
 
+    public Teacher(String firstName, String secondName, String patronymic, LocalDate dateOfBirth, Long teacherId) {
+        super(firstName, secondName, patronymic, dateOfBirth);
+        this.teacherId = teacherId;
+    }
     public static class TeacherComparator implements Comparator {
         @Override
         public int compare(Object o1, Object o2) {
             return 0;
         }
+    }
+
+    @Override
+    public String toString() {
+        return String.format("\nУчитель: %d, %s %s %s, %s г.р.",
+                teacherId, super.getFirstName(), super.getSecondName(), super.getPatronymic(), super.getDateOfBirth());
     }
 }
