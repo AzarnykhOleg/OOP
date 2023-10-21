@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="340e7776-b339-46d5-b47b-65cb061dd732" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Lesson_4/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_4/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_4/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_4/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_4/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_4/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_4/src/main/java/controller/StudentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_4/src/main/java/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_4/src/main/java/data/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_4/src/main/java/data/StudentGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_4/src/main/java/data/StudentGroupIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_4/src/main/java/data/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_4/src/main/java/data/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_4/src/main/java/data/UserComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_4/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_4/src/main/java/service/StudentGroupService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_4/src/main/java/service/StudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_4/src/main/java/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_4/src/main/java/view/StudentView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_4/src/main/java/view/UserView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_4/src/main/resources/com/example/lesson_4/hello-view.fxml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2WwlvznkaBncsTAX524Q6KdRsZt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Learning/OOP/OOP/Lesson_4",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="340e7776-b339-46d5-b47b-65cb061dd732" name="Changes" comment="" />
+      <created>1697651757773</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697651757773</updated>
+      <workItem from="1697651758950" duration="106000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
